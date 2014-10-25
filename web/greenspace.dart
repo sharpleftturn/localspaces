@@ -7,7 +7,7 @@ import 'greenspace_controls.dart';
 List spacesData;
 GMap map;
 GreenspaceControls controls;
-String apiKey = 'AIzaSyDqxj_5rssrYL9B0bqwnFGjM74Hi4bJCMQ';
+String apiKey = '';
 
 main() {
   initPolymer().run(() {
